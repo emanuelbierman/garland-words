@@ -1,5 +1,5 @@
 # garland-words
-Tells you if the given word is a garland word
+Run the program in the terminal and it will return whether or not your input is a garland word.
 
 * A garland word is a word whose first N words are the same as its last N words
 > * where N > 0
